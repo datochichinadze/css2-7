@@ -1,0 +1,279 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+#div_box {
+    padding: 96px;
+    background: #1B0E0F;
+}
+
+
+#first_div {
+    padding: 96px 0px;
+    background: #FFF;
+}
+
+
+#header_box {
+    text-align: center;
+}
+
+
+#our_box {
+    color: #002AFE;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+#resources_box {
+    color: #181D27;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+
+#the_box {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+
+/*  */
+
+
+
+
+#image_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 56px;
+    margin-left: 40px;
+}
+
+
+#div_image {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#logo_box {
+    width: 600px;
+    height: 462px;
+}
+
+
+/*  */
+
+
+#second_div {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 96px;
+}
+
+#designconainer {
+    color: #6941C1;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+#howcontainer {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 8px;
+}   
+
+
+#collaboration_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 510px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+#logocontainer {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+#ava_div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#paragraf_box {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#avatar_div {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 24px;
+    
+}
+
+
+#natali_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 24px;
+}
+
+
+#jan_box {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+/*  */
+
+
+#fotocontainer {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 56px;
+    margin-left: 40px;
+}
+
+
+#main_box {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#photo_box {
+    width: 600px;
+    height: 462px;
+}
+
+
+/*  */
+
+
+#text_div {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 96px;
+}
+
+
+
+#productcontainer {
+    color: #6941C1;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+#topcontainer {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+
+#javaScript_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 510px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+#textlogo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 43px;
+}
+
+
+
+/*  */
+
+
+#footer_div {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 56px;
+    margin-left: 40px;
+}
+
+
+#footer_box {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#footercontainer {
+    width: 600px;
+    height: 462px;
+}
+
+/*  */
+
+
+
+#conteiner {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 96px;
+}
+
+
+#customer_box {
+    color: #6941C1;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+#podcast_box {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+
+#arow_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 43px;
+}
+
+
+#staring_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 510px;
+    width: 100%;
+    margin-top: 8px;
+}
